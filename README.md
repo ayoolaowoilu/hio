@@ -1,7 +1,7 @@
 # hio
 
 Short description
-: A small, empty starter repository named "hio". This README provides a project scaffold, suggested repository layout, CI guidance, and contribution instructions for the repository owners to populate with actual code.
+: A small, empty starter repository named "hio". This README provides a project scaffold, suggested repository. layout, CI guidance, and contribution instructions for the repository owners to populate with actual code.
 
 Status
 - Repository state: Initial / scaffold — no source code present (only CI workflow template).
